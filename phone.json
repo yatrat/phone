@@ -1,36 +1,55 @@
 [
   {
-    "name":"Samsung Galaxy Fold X",
-    "brand":"Samsung",
-    "price":179999,
-    "image":"https://via.placeholder.com/300x300?text=Fold",
-    "filters":["premium","camera"],
-    "specs":{
-      "Display":"8.0 inch Foldable",
-      "Processor":"Snapdragon 8 Elite",
-      "RAM":"12GB / 16GB",
-      "Storage":"256GB / 512GB / 1TB",
-      "Rear Camera":"200MP + 12MP + 10MP",
-      "Battery":"4400mAh",
-      "Charging":"25W wired / 15W wireless",
-      "OS":"Android 16 (One UI)"
-    }
-  },
-  {
-    "name":"Redmi Note 14",
-    "brand":"Redmi",
-    "price":18999,
-    "image":"https://via.placeholder.com/300x300?text=Redmi",
-    "filters":["budget","battery"],
-    "specs":{
-      "Display":"6.6 AMOLED",
-      "Processor":"Dimensity 9000",
-      "RAM":"8GB",
-      "Storage":"128GB",
-      "Rear Camera":"50MP",
-      "Battery":"5000mAh",
-      "Charging":"67W",
-      "OS":"Android 14"
-    }
+    "slug": "samsung-galaxy-fold-x",
+    "name": "Samsung Galaxy Fold X",
+    "brand": "Samsung",
+    "price": null,
+    "image": "fold-x.webp",
+
+    "metrics": {
+      "display": "8.0\" Foldable",
+      "processor": "Snapdragon 8 Elite",
+      "ram": "12GB / 16GB",
+      "storage": "256GB / 512GB / 1TB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "4400mAh",
+      "charging": "25W wired / 15W wireless",
+      "network": "5G",
+      "os": "Android 16 (One UI)"
+    },
+
+    "specs": {
+      "RAM & Storage": "12 GB RAM + 256 GB / 512 GB / 1 TB",
+      "Processor": "Qualcomm Snapdragon 8 Elite SM8750",
+      "Rear Camera": "200 MP + 12 MP + 10 MP",
+      "Front Camera": "10 MP",
+      "Battery": "4400 mAh",
+      "Display": "8.0 inches (20.32 cm)",
+      "Launch Date": "July 25, 2025",
+      "Operating System": "Android v16",
+      "Custom UI": "Samsung One UI",
+      "Chipset": "Qualcomm Snapdragon 8 Elite SM8750",
+      "CPU": "Octa core (4.47 GHz Dual + 3.5 GHz Hexa)",
+      "Architecture": "64 bit",
+      "Fabrication": "3 nm",
+      "GPU": "Adreno 830",
+      "Height": "158.4 mm",
+      "Width": "72.8 mm",
+      "Thickness": "8.9 mm",
+      "Weight": "215 grams",
+      "Build": "Gorilla Glass Victus 2",
+      "Form Factor": "Foldable Touch",
+      "Water Resistance": "Yes",
+      "SIM Type": "Nano + Nano",
+      "Network": "5G, 4G",
+      "Wi-Fi": "Wi-Fi 7",
+      "Bluetooth": "v5.4",
+      "GPS": "Yes with A-GPS, Glonass",
+      "NFC": "Yes",
+      "Charging": "25W wired, 15W wireless"
+    },
+
+    "filters": ["premium","camera"],
+    "post": "/p/samsung-galaxy-fold-x.html"
   }
 ]
