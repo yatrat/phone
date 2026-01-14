@@ -52,5 +52,60 @@
 
     "filters": ["premium","camera"],
     "post": "/p/samsung-galaxy-fold-x.html"
+  },
+
+  {
+    "slug": "vivo-v30-pro",
+    "name": "Vivo V30 Pro",
+    "brand": "Vivo",
+    "price": "42000",
+    "release": "Mar 2025",
+    "image": "vivo-v30.webp",
+
+    "metrics": {
+      "display": "6.78\" AMOLED",
+      "processor": "Dimensity 8200",
+      "ram": "12GB",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 12MP",
+      "battery": "5000mAh",
+      "charging": "80W Fast Charge",
+      "network": "5G",
+      "os": "Android 14 (Funtouch)"
+    },
+
+    "specs": {
+      "RAM & Storage": "12 GB RAM + 256 GB Storage",
+      "Processor": "MediaTek Dimensity 8200",
+      "Rear Camera": "50 MP + 50 MP + 12 MP",
+      "Front Camera": "50 MP",
+      "Battery": "5000 mAh",
+      "Display": "6.78 inches AMOLED",
+      "Launch Date": "March 2025",
+      "Operating System": "Android v14",
+      "Custom UI": "Funtouch OS",
+      "Chipset": "MediaTek Dimensity 8200",
+      "CPU": "Octa core",
+      "Architecture": "64 bit",
+      "Fabrication": "4 nm",
+      "GPU": "Mali-G610",
+      "Height": "164 mm",
+      "Width": "75 mm",
+      "Thickness": "7.5 mm",
+      "Weight": "188 grams",
+      "Build": "Glass back",
+      "Form Factor": "Touch",
+      "Water Resistance": "No",
+      "SIM Type": "Nano + Nano",
+      "Network": "5G, 4G",
+      "Wi-Fi": "Wi-Fi 6",
+      "Bluetooth": "v5.3",
+      "GPS": "Yes with A-GPS",
+      "NFC": "Yes",
+      "Charging": "80W wired"
+    },
+
+    "filters": ["camera","battery"],
+    "post": "/p/vivo-v30-pro.html"
   }
 ]
