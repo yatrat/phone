@@ -3,8 +3,8 @@
     "slug": "samsung-galaxy-fold-x",
     "name": "Samsung Galaxy Fold X",
     "brand": "Samsung",
-    "price": 170000,
-    "release": "Jul 2025"
+    "price": "170000",
+    "release": "Jul 2025",
     "image": "fold-x.webp",
 
     "metrics": {
